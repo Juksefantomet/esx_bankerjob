@@ -15,3 +15,4 @@ Locales['es'] = {
   ['boss_actions']                      = 'Acciones del jefe',
   ['phone_receive']                     = 'Cliente bancario',
   ['phone_label']                       = 'banco',
+}
